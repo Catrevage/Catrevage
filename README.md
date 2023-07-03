@@ -1,5 +1,12 @@
 <h1 align="center">Olá, obrigado por visitar meu perfil do GitHub! 👋</h1>
+
 <h2>Me chamo Damião Júnior, sou estudande de Análise e Desenvolvimento de Sistemas, participante do programa Oracle One Education, aficionado por tecnologia, desenvolvedor Java e eterno aprendiz da vida.</h2>
+
+<p>
+  Comecei a trabalhar com tecnologia da informação em 2004, sempre na área de infraestrutura: hardware, redes, Linux, Windows Server, telecomunicações. Em 2022, resolvi abraçar de vez a programação, que sempre foi uma das minhas paixões. Retomei minha graduação, trancada em 2012, e resolvi encarar o desafio de aprender programação do zero e me socializar na comunidade de desenvolvedores. 
+
+  Gosto de assistir séries e filmes sobre fatos históricos, cozinha e fazer aquele belo churrasco de fim de semana. Sou casado, tenho 3 filhs, um gato e um cachorro que são o xodó da casa. Fiquem a vontade para me convidarem para falar sobre desenvolvimento web, engenharia de software, tecnologia e mercado de trabalho.
+</p>
 <!--
 **Catrevage/Catrevage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
