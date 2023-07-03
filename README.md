@@ -1,5 +1,5 @@
-<h1>### Bem vindos ao meu perfil! 👋</h1>
-
+<h1 align="center">Olá, obrigado por visitar meu perfil do GitHub! 👋</h1>
+<h2>Me chamo Damião Júnior, sou estudande de Análise e Desenvolvimento de Sistemas, participante do programa Oracle One Education, aficionado por tecnologia, desenvolvedor Java e eterno aprendiz da vida.</h2>
 <!--
 **Catrevage/Catrevage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
