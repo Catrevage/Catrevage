@@ -29,7 +29,11 @@
 <img width="40" height="40" src=https://github.com/Catrevage/Catrevage/assets/111127477/75c5c7b7-fc7a-4223-b229-aa3024482997>
 <img width="40" height="40" src=https://github.com/Catrevage/Catrevage/assets/111127477/9d12dbe4-d019-413f-bc0b-c04bb85595d0>
 
-<h2>Badges de Desafios Oracle One Next Education</h2>
-<img width="40" height="40" src="img/cms_files_10224_1673890300Prancheta_9.png>
-<img width="40" height="40" src="img/cms_files_10224_1677509014Prancheta_1.png">
+<h2>BADGES CONSEGUIDOS NOS DESAFIOS ORACLE ONE NEXT EDUCATION</h2>
+<div display="flex">
+<img width="200" height="200" margin="10" src="img/cms_files_10224_1673890300Prancheta_9.png">
+<img width="200" height="200" src="img/cms_files_10224_1677509014Prancheta_1.png">
+  <img width="200" height="200" margin="10" src="img/git.png">
+</div>
+
 
