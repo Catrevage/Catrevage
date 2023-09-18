@@ -31,9 +31,9 @@
 
 <h2>BADGES CONSEGUIDOS NOS DESAFIOS ORACLE ONE NEXT EDUCATION</h2>
 <div display="flex">
-<img width="200" height="200" margin="10" src="img/cms_files_10224_1673890300Prancheta_9.png">
+<img width="200" height="200" margin="5" src="img/cms_files_10224_1673890300Prancheta_9.png">
 <img width="200" height="200" src="img/cms_files_10224_1677509014Prancheta_1.png">
-  <img width="200" height="200" margin="10" src="img/git.png">
+  <img width="200" height="200" margin="5" src="img/git.png">
 </div>
 
 
